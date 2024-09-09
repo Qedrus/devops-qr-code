@@ -4,7 +4,7 @@ This is an application that generates QR Codes for the provided URL, the front-e
 
 ## Application
 
-**Front-End** - A web application where users can submit URLs.
+**Front-End**: A web application where users can submit URLs.
 
 **API**: API that receives URLs and generates QR codes. The API stores the QR codes in cloud storage(AWS S3 Bucket).
 
